@@ -1,0 +1,38 @@
+test1
+
+python3 ConnectFour.py ...r...,.......,.......,.......,.......,....... yellow M 1
+python3 ConnectFour.py y..r...,...r...,.......,.......,.......,....... yellow M 1
+python3 ConnectFour.py yr.r...,...r...,...y...,.......,.......,....... yellow M 1
+python3 ConnectFour.py yr.rr..,y..r...,...y...,.......,.......,....... yellow M 1
+python3 ConnectFour.py yr.rr..,y..r...,y..y...,r......,.......,....... yellow M 1
+python3 ConnectFour.py yryrr..,y.rr...,y..y...,r......,.......,....... yellow M 1
+python3 ConnectFour.py yryrr..,y.rry..,y.ry...,r......,.......,....... yellow M 1
+python3 ConnectFour.py yryrry.,y.rry..,y.ry...,r.r....,.......,....... yellow M 1
+python3 ConnectFour.py yryrry.,y.rry..,y.ry...,r.r....,r.y....,....... yellow M 1
+python3 ConnectFour.py yryrry.,yrrryy.,y.ry...,r.r....,r.y....,....... yellow M 1
+
+
+test2
+
+
+python3 ConnectFour.py ...r...,.......,.......,.......,.......,....... yellow M 1
+python3 ConnectFour.py y..rr..,.......,.......,.......,.......,....... yellow M 1
+python3 ConnectFour.py y.rrr..,y......,.......,.......,.......,....... yellow M 1
+
+
+test3
+
+
+python3 ConnectFour.py r......,.......,.......,.......,.......,....... yellow M 1
+python3 ConnectFour.py rr.....,y......,.......,.......,.......,....... yellow M 1
+python3 ConnectFour.py rry....,yr.....,.......,.......,.......,....... yellow M 1
+python3 ConnectFour.py rry....,yrr....,.y.....,.......,.......,....... yellow M 1
+python3 ConnectFour.py rry....,yrr....,ryy....,.......,.......,....... yellow M 1
+python3 ConnectFour.py rry....,yrr....,ryy....,r.y....,.......,....... yellow M 1
+python3 ConnectFour.py rry....,yrr....,ryy....,r.y....,r.y....,....... yellow M 1
+
+
+test4
+
+python3 ConnectFour.py ...r...,.......,.......,.......,.......,....... yellow M 1
+python3 ConnectFour.py .rrr...,...y...,...y...,.......,.......,....... yellow M 1
